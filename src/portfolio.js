@@ -130,7 +130,7 @@ const educationInfo = {
     },
     {
       schoolName: "NextLeap",
-      logo: require("./assets/images/NexlLeapLogo.jpg"),
+      logo: require("./assets/images/nextleapLogo.jpg"),
       subHeader: "Product Management Fellowship",
       duration: "2026",
       desc: "Product Management",
