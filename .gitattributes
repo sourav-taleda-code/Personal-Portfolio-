@@ -4,5 +4,7 @@
 *.ttf binary
 *.png binary
 *.webp binary
+*.jpg binary
+*.pdf binary
 *.woff binary
 
