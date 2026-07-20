@@ -61,7 +61,7 @@ const skillsSection = {
     ),
     <span key="pm-fellowship">
       ⚡ Completed Product Management Fellowship at NextLeap -{" "}
-      <a href="https://nextleap.app/portfolio/sourav-taleda" target="_blank" rel="noopener noreferrer">View Portfolio</a>
+      <a href="https://www.souravtaleda.com/" target="_blank" rel="noopener noreferrer">View Portfolio</a>
     </span>
   ],
 
